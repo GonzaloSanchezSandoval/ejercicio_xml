@@ -1,5 +1,3 @@
-# ejercicio_xml
-
 #Proyecto 2º evaluación ejercicio xml
 
 *Lista los titulos de los libros pertenecientes a Cosmere
