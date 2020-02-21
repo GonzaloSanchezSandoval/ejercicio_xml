@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sanderson_Books>
+
+    <biography>
+        <birthday>December 19, 1975</birthday>
+        <Life_career>
+            Brandon Sanderson was born on December 19, 1975, in Lincoln, Nebraska. He became a passionate reader of high fantasy novels while a teenager, and he made several early attempts at writing his own stories. After graduating from high school in 1994, he matriculated at Brigham Young University (BYU) as a biochemistry major. He took a two-year leave of absence from 1995 to 1997 to serve as a volunteer full-time missionary for the Church of Jesus Christ of Latter-day Saints and was assigned to serve in South Korea.
+            After completing his missionary service, Sanderson returned to BYU and changed his major to English literature. While an undergraduate, Sanderson took a job as a night desk clerk at a local hotel in Provo, Utah, as it allowed him to write while working. One of Sanderson's roommates at BYU was Ken Jennings, who nearly 10 years later became famous during his 74-game win streak on the American game show Jeopardy!. He graduated with a B.A. in English in 2000, then continued on as a graduate student at BYU, receiving an M.A. in English with an emphasis in creative writing in 2004. While at BYU, Sanderson was on the staff of Leading Edge, a semi-professional speculative fiction magazine published by the university, and served as its editor-in-chief for one year.
+            In 2006, Sanderson married Emily Bushman, a fellow English major and teacher, who later became his business manager. They have three sons and reside in American Fork, Utah.
+        </Life_career>
+        <Wheel_of_time_finish>
+            After Robert Jordan's death in September 2007, Sanderson was selected by Jordan's widow and editor, Harriet McDougal, to complete the final books in Jordan's epic fantasy series The Wheel of Time. McDougal asked him to finish the series after being deeply impressed by his first Mistborn novel. Tor Books made the announcement on December 7, 2007. After reviewing what was necessary to complete the series, Sanderson and Tor announced on March 30, 2009, that a final three books would be published instead of just one. The first of these, The Gathering Storm, was published on October 27, 2009, and reached the number-one spot on the New York Times bestseller list for hardcover fiction.
+            In 2010, Sanderson published The Way of Kings, the first of a planned ten-book series called The Stormlight Archive. It achieved the number seven slot on the New York Times hardcover fiction bestseller list. Towers of Midnight, the second-to-last Wheel of Time book, was published just over a year after The Gathering Storm on November 2, 2010, debuting at number one on the bestseller list. The fourth Alcatraz novel, Alcatraz Versus the Shattered Lens, was published a month later on December 1.
+            In October 2011, he finished a novella e-book, Infinity Blade: Awakening, based on the action role-playing, iOS video game Infinity Blade, developed by Chair Entertainment and Epic Games. In November 2011, he published a sequel to the Mistborn trilogy, Mistborn: The Alloy of Law. It was originally planned as a standalone novel set about 300 years after the original trilogy, but it was later expanded into a four-book series. It debuted at number seven on the New York Times bestseller list.
+            On August 31, 2012, Sanderson published a science fiction novella entitled Legion, followed by another short work titled The Emperor's Soul. A few months later, on January 8, 2013, A Memory of Light was published, the final book in The Wheel of Time series. In 2013, Sanderson published two new young adult series. These series included The Rithmatist and the first of The Reckoners. series titled Steelheart In March 2014, Words of Radiance, the second book in The Stormlight Archive, was published.
+            Later that year, Sanderson also published the second novella in the Legion series, Legion: Skin Deep. In January 2015, the second book of The Reckoners, titled Firefight, was published. Nine months later, Sanderson published Mistborn: Shadows of Self as a direct sequel to The Alloy of Law. On November 16, 2015, Sanderson's agency (JABberwocky Literary Agency) announced that Sanderson officially sold over 7 million copies worldwide.
+            On January 26, 2016, Mistborn: The Bands of Mourning was published as the sequel to Shadows of Self. On February 16, 2016, the third and final book of the Reckoners trilogy, titled Calamity, was published. In June 2016, Sanderson's first graphic novel White Sand—written with Rik Hoskin—was released. The series is planned as a trilogy. The graphic novels are based on an original manuscript by Sanderson. On September 6, 2016, the fifth Alcatraz book was published, called Alcatraz Versus the Dark Talent.
+            In October 2016, media company DMG Entertainment acquired the film and licensing rights to Sanderson's entire Cosmere universe. As part of the deal, DMG committed to spending at least $270 million, which they estimate will cover half of the money needed to produce the first three film adaptations of Sanderson's books, and is fast-tracking the development of a script for a film adaptation of Sanderson's book The Way of Kings. Sanderson will receive a minimum guarantee on each film, plus a "backend" giving him a percentage of each film's profits, which will allow him to earn several million dollars from the films. On November 22, 2016, an anthology of Cosmere short stories and novellas was published, titled Arcanum Unbounded: A Cosmere Collection. The third book in The Stormlight Archive Oathbringer was published on November 14, 2017.
+        </Wheel_of_time_finish>
+
+        <awards>
+            <award> 
+                <year>2005</year>
+                <book>Elantris</book>
+                <title>Best epic fantasy novel award</title>
+            </award>
+            <award>
+                <year>2007</year>
+                <book>Defending Elysium</book>
+                <title>UPC Science fiction award</title>
+            </award>
+            <award>
+                <year>2008</year>
+                <book>The Hero of Ages</book>
+                <title>Reviewers´ Choice best book award</title>
+            </award>
+            <award>
+                <year>2010</year>
+                <book>The way of kings</book>
+                <title>Best novel of the year</title>
+            </award>
+            <award>
+                <year>2010</year>
+                <book>The way of kings</book>
+                <title>Best Fantasy of 2010</title>
+            </award>
+            <award>
+                <year>2010</year>
+                <book>The way of kings</book>
+                <title>Best Speculative Fiction</title>
+            </award>
+            <award>
+                <year>2013</year>
+                <book>Steelheart</book>
+                <title>Best young-adult novel</title>
+            </award>
+            <award>
+                <year>2014</year>
+                <book>Words of Radiance</book>
+                <title>Best novel of the year</title>
+            </award>
+        </awards>
+    </biography>
+
+
+
+
+    <Cosmere>
+        <Mistborn>
+            <book titulo="The Final Empire">
+                <year>2006</year>
+                <Storyline>         
+                    Mistborn: The Final Empire is set on the dystopian world of Scadrial, where ash constantly falls from the sky, all plants are brown, and supernatural mists cloak the landscape every night. One thousand years before the start of the novel, the prophesied Hero of Ages ascended to godhood at the Well of Ascension in order to repel the Deepness, a terror threatening the world whose true nature has since been lost to time. Though the Deepness was successfully repelled and mankind saved, the world was changed into its current form by the Hero, who took the title "Lord Ruler" and has ruled over the Final Empire for a thousand years as an immortal tyrant and god. Under his rule, society is stratified into the nobility, believed to be the descendants of the friends and allies who helped him achieve godhood, and the brutally oppressed peasantry descended from those who opposed him, known as skaa.
+                    Magic is central to the Mistborn world. The most widely known discipline of magic is called Allomancy, which allows users to gain supernatural abilities by swallowing and "burning" specific metals. Allomantic potential is a genetic trait concentrated in the nobility, though skaa Allomancers also exist due to crossbreeding between the nobility and the skaa. Normal Allomancers have access to one Allomantic power, but an incredibly rare subset of Allomancers, called Mistborn, have access to every Allomantic power. 
+                </Storyline>
+                <Characters>Kelsier, Vin, Sazed</Characters> 
+            </book>
+            <book titulo="The whell of ascension">        
+                <year>2007</year>
+                <Storyline>
+                    The Final Empire is in turmoil, various regions descending into anarchy following the Lord Ruler's death and the disappearance of the Steel Ministry. Elend Venture claims the crown of the capital city, Luthadel, and attempts to restore order, but various hostile forces converge on the city
+                    Three armies lay siege to Luthadel because of its rumored wealth of Atium and political influence. The first army is led by Straff Venture - head of House Venture, and Elend's father. The second army is led by Ashweather Cett, self-declared king of the Western Dominance. The third army consists of Koloss, massive, brutish blue creatures once controlled by the Lord Ruler, and is led by Elend's former friend Jastes – who is buying the Koloss' obedience with counterfeit coins. 
+                </Storyline>
+                <Characters>Elend, Vin, Sazed, Marsh</Characters>
+            </book>
+            <book titulo="The Hero of Ages">
+                <year>2008</year>
+                <Storyline>    
+                   The Hero of Ages is the prophesied savior of the Terris people, foretold to find and give up the power at the Well of Ascension, in a selfless act to save the world from the Deepness. However, the Terris prophecies proved to have been altered, in a ruse allowing the powerful force named Ruin to escape imprisonment.
+                   Ruin wanted to destroy the world instantaneously but his power was too weak, as part of it had been taken and hidden by the opposing force, Preservation, long ago. Freedom from the Well of Ascension enabled Ruin to directly affect the world more, increasing ashfall from the ashmounts and summoning earthquakes to break the world apart; he could also influence people and control entire koloss armies. He used his thousand years of imprisonment to plot his escape and the subsequent destruction he would reap. 
+                </Storyline>
+                <Characters>Elend, Vin, Sazed</Characters>
+            </book>
+        </Mistborn>
+
+        <StormlightArchive>
+            <book titulo="The way of kings">
+                <year>2010</year>
+                <Storyline>
+                    Elantris used to be a place of magic, and the Elantrians were gods in the eyes of people, with their ability to create and heal with a mere wave of the hand. But after a cataclysmic event, known as the Reod, the inhabitants of the city became "cursed," and the city was sealed off from society. Anyone affected by the Shaod, or the disease that turns a person into an Elantrian, is thrown into Elantris to stay there forever. 
+                </Storyline>
+                <Characters>Raoden, Sarene, Hrathen</Characters>
+            </book>
+        </StormlightArchive>
+
+        <book title="Elantris">
+            <year>2005<year>
+            <Storyline>
+                The story rotates between the points of view of Kaladin, Shallan Davar, Szeth-son-son-Vallano, Dalinar Kholin, and several other minor characters, who lead seemingly unconnected lives. Szeth, a Shin man cast out by his people and condemned to obey his constantly changing masters, is sent to murder the king of one of the world's most powerful nations, Alethkar. As the story progresses, he continuously changes hands, doing his best to hide the fact that he possesses an Honorblade, a mythical blade used by the Heralds that can cut through any material. He also possesses access to powers that are no longer available to normal humans (“Surgebinding”), once possessed by the Knights Radiant and thought lost, making him incredibly difficult to defeat in battle. 
+            </Storyline>
+            <Characters>Kaladin, Dalinar, Szeth</Characters>
+        </book>
+    </Cosmere>
+    
+
+    <Non_cosmere>
+        <The_Reckoners>
+            <book titulo="SteelHeart">
+                <year>2013</year>
+                <Storyline>
+                Twelve years ago, an object dubbed Calamity appeared near Earth and burst in the sky, emitting a strange radiation which gave a small group of humans super powers and near invincibility in apparent defiance of the known laws of physics. They all have different types of powers and weaknesses, with no apparent rhyme or reason. Dubbed Epics, these super-humans took to crime. Existing government proved absolutely incapable of controlling the Epics, the most powerful of which replaced government authority and enslaved the rest of humanity.
+                Ten years ago, an eight-year-old Chicago native boy named David Charleston was orphaned when the High Epic Steelheart murdered his father while fighting a rival Epic, Deathpoint, in a bank. The sole survivor of the bank carnage, David has now come of age in what is known as Newcago, ruled by Steelheart. David witnessed Steelheart's one weakness as his father inflicted a minor wound at Steelheart's eye while trying to shoot the other Epic, and David has grown up devoting his life to learning all he can about the Epics to find their weaknesses, with the goal of avenging his father. He finds "the Reckoners", an elite group led by "Professor" Jonathan Phaedrus with the common goal of killing as many Epics as possible. They decide to admit him into their group when they discover he has witnessed Steelheart's weakness, and his collected research.
+                Steelheart has turned most all of Newcago into steel with his power and his lieutenant Nightwielder keeps it in eternal darkness by hiding the Sun. The mortal citizenry live mostly underground and work at menial factory jobs. Yet Steelheart has proved one of the more effective Epic rulers, by providing Newcago with infrastructure, food, water, and electricity, in contrast with most other cities in what are now known as the "Fractured States". 
+                </Storyline>
+                <Characters>David,Deathpoint,Calamity</Characters>
+            </book>
+            <book titulo="Firefight">
+                <year>2015</year>
+                <Storyline>
+                    After the events of Steelheart and Mitosis, David Charleston, dubbed as the infamous 'Steelslayer' by many, is searching for something to fill the hole left now that his revenge had at long last been fulfilled. Firefight, otherwise known as Megan, has since left the Reckoners knowing her cover as Steelheart's spy was blown. With the attacks on his team from Mitosis and Sourcefield, Jon Phaedrus, or known as Prof throughout the book, has eyes set on the common connection between them and Regalia, the Epic who rules Babilar, formerly known as Manhattan, and who has sent multiple subordinate Epics to confront the Newcago Reckoners. Jon sets out to Babilar with David and Tia (leaving Abraham and Cody behind to defend the city of Newcago) to face Regalia, whom David suspects has a long-term connection between Jon and Tia, due to their seemingly knowledgeable information of each other.
+                    Upon arriving in Babilar, a ruined NYC flooded up to the top of the skyscrapers, which are used by the citizens as homes, connected by ladders, Prof, David, and Tia meet with Val, the tough-headed operations leader of the Babilar Reckoners, Exel, the extremely large and friendly giant of the team, and Mizzy, the spunky and clumsy point/repair and equipment manager. Together, they go out on boat to the city, where they discuss Regalia's powers of being able to control the water and water level, as well as being able to project herself upon the water's surface and see things near the water surface. The group finds it odd that she's turned the city into a less restricted community, turning it into more of a free haven. Suddenly, nearby rooftops blaze and explode, and it's revealed that Regalia has brought in Obliteration, an incredibly strong and cryptic Epic who has a flair for the theatrics and is famous for desolating Houston, San Diego, and Albuquerque, not wanting to rule, but simply to destroy. With the abilities to absorb and disperse amazing amounts of heat, teleport in the wake of danger, as well as enhanced strength, he runs rampant throughout the city, killing citizens seemingly joyously while the Reckoners try to exploit a weakness. While fighting him, David notices bandages on his chest, as if he were recently injured. The lopsided scuffle ends with David being thrown into the depths with a ball and chain, before Obliteration graciously thanks him for slaying Steelheart, saying it's simply an obstacle averted in his quest to destroy everything in his path. 
+                </Storyline>
+                <Characters>David, Calamity</Characters>
+            </book>
+        </The_Reckoners>
+    </Non_cosmere>
+
+</Sanderson_Books>
