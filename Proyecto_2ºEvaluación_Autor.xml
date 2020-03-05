@@ -67,45 +67,43 @@
 
 
     <Cosmere>
-        <Mistborn>
-            <book titulo="The Final Empire">
-                <year>2006</year>
-                <Storyline>         
-                    Mistborn: The Final Empire is set on the dystopian world of Scadrial, where ash constantly falls from the sky, all plants are brown, and supernatural mists cloak the landscape every night. One thousand years before the start of the novel, the prophesied Hero of Ages ascended to godhood at the Well of Ascension in order to repel the Deepness, a terror threatening the world whose true nature has since been lost to time. Though the Deepness was successfully repelled and mankind saved, the world was changed into its current form by the Hero, who took the title "Lord Ruler" and has ruled over the Final Empire for a thousand years as an immortal tyrant and god. Under his rule, society is stratified into the nobility, believed to be the descendants of the friends and allies who helped him achieve godhood, and the brutally oppressed peasantry descended from those who opposed him, known as skaa.
-                    Magic is central to the Mistborn world. The most widely known discipline of magic is called Allomancy, which allows users to gain supernatural abilities by swallowing and "burning" specific metals. Allomantic potential is a genetic trait concentrated in the nobility, though skaa Allomancers also exist due to crossbreeding between the nobility and the skaa. Normal Allomancers have access to one Allomantic power, but an incredibly rare subset of Allomancers, called Mistborn, have access to every Allomantic power. 
-                </Storyline>
-                <Characters>Kelsier, Vin, Sazed</Characters> 
-            </book>
-            <book titulo="The whell of ascension">        
-                <year>2007</year>
-                <Storyline>
-                    The Final Empire is in turmoil, various regions descending into anarchy following the Lord Ruler's death and the disappearance of the Steel Ministry. Elend Venture claims the crown of the capital city, Luthadel, and attempts to restore order, but various hostile forces converge on the city
-                    Three armies lay siege to Luthadel because of its rumored wealth of Atium and political influence. The first army is led by Straff Venture - head of House Venture, and Elend's father. The second army is led by Ashweather Cett, self-declared king of the Western Dominance. The third army consists of Koloss, massive, brutish blue creatures once controlled by the Lord Ruler, and is led by Elend's former friend Jastes – who is buying the Koloss' obedience with counterfeit coins. 
-                </Storyline>
-                <Characters>Elend, Vin, Sazed, Marsh</Characters>
-            </book>
-            <book titulo="The Hero of Ages">
-                <year>2008</year>
-                <Storyline>    
-                   The Hero of Ages is the prophesied savior of the Terris people, foretold to find and give up the power at the Well of Ascension, in a selfless act to save the world from the Deepness. However, the Terris prophecies proved to have been altered, in a ruse allowing the powerful force named Ruin to escape imprisonment.
-                   Ruin wanted to destroy the world instantaneously but his power was too weak, as part of it had been taken and hidden by the opposing force, Preservation, long ago. Freedom from the Well of Ascension enabled Ruin to directly affect the world more, increasing ashfall from the ashmounts and summoning earthquakes to break the world apart; he could also influence people and control entire koloss armies. He used his thousand years of imprisonment to plot his escape and the subsequent destruction he would reap. 
-                </Storyline>
-                <Characters>Elend, Vin, Sazed</Characters>
-            </book>
-        </Mistborn>
+        
+        <book titulo="The Final Empire">
+            <year>2006</year>
+            <Storyline>         
+                Mistborn: The Final Empire is set on the dystopian world of Scadrial, where ash constantly falls from the sky, all plants are brown, and supernatural mists cloak the landscape every night. One thousand years before the start of the novel, the prophesied Hero of Ages ascended to godhood at the Well of Ascension in order to repel the Deepness, a terror threatening the world whose true nature has since been lost to time. Though the Deepness was successfully repelled and mankind saved, the world was changed into its current form by the Hero, who took the title "Lord Ruler" and has ruled over the Final Empire for a thousand years as an immortal tyrant and god. Under his rule, society is stratified into the nobility, believed to be the descendants of the friends and allies who helped him achieve godhood, and the brutally oppressed peasantry descended from those who opposed him, known as skaa.
+                Magic is central to the Mistborn world. The most widely known discipline of magic is called Allomancy, which allows users to gain supernatural abilities by swallowing and "burning" specific metals. Allomantic potential is a genetic trait concentrated in the nobility, though skaa Allomancers also exist due to crossbreeding between the nobility and the skaa. Normal Allomancers have access to one Allomantic power, but an incredibly rare subset of Allomancers, called Mistborn, have access to every Allomantic power. 
+            </Storyline>
+            <Characters>Kelsier, Vin, Sazed</Characters> 
+        </book>
+        <book titulo="The whell of ascension">        
+            <year>2007</year>
+            <Storyline>
+                The Final Empire is in turmoil, various regions descending into anarchy following the Lord Ruler's death and the disappearance of the Steel Ministry. Elend Venture claims the crown of the capital city, Luthadel, and attempts to restore order, but various hostile forces converge on the city
+                Three armies lay siege to Luthadel because of its rumored wealth of Atium and political influence. The first army is led by Straff Venture - head of House Venture, and Elend's father. The second army is led by Ashweather Cett, self-declared king of the Western Dominance. The third army consists of Koloss, massive, brutish blue creatures once controlled by the Lord Ruler, and is led by Elend's former friend Jastes – who is buying the Koloss' obedience with counterfeit coins. 
+            </Storyline>
+            <Characters>Elend, Vin, Sazed, Marsh</Characters>
+        </book>
+        <book titulo="The Hero of Ages">
+            <year>2008</year>
+            <Storyline>    
+               The Hero of Ages is the prophesied savior of the Terris people, foretold to find and give up the power at the Well of Ascension, in a selfless act to save the world from the Deepness. However, the Terris prophecies proved to have been altered, in a ruse allowing the powerful force named Ruin to escape imprisonment.
+               Ruin wanted to destroy the world instantaneously but his power was too weak, as part of it had been taken and hidden by the opposing force, Preservation, long ago. Freedom from the Well of Ascension enabled Ruin to directly affect the world more, increasing ashfall from the ashmounts and summoning earthquakes to break the world apart; he could also influence people and control entire koloss armies. He used his thousand years of imprisonment to plot his escape and the subsequent destruction he would reap. 
+            </Storyline>
+            <Characters>Elend, Vin, Sazed</Characters>
+        </book>
 
-        <StormlightArchive>
-            <book titulo="The way of kings">
-                <year>2010</year>
-                <Storyline>
-                    Elantris used to be a place of magic, and the Elantrians were gods in the eyes of people, with their ability to create and heal with a mere wave of the hand. But after a cataclysmic event, known as the Reod, the inhabitants of the city became "cursed," and the city was sealed off from society. Anyone affected by the Shaod, or the disease that turns a person into an Elantrian, is thrown into Elantris to stay there forever. 
-                </Storyline>
-                <Characters>Raoden, Sarene, Hrathen</Characters>
-            </book>
-        </StormlightArchive>
+        
+        <book titulo="The way of kings">
+            <year>2010</year>
+            <Storyline>
+                Elantris used to be a place of magic, and the Elantrians were gods in the eyes of people, with their ability to create and heal with a mere wave of the hand. But after a cataclysmic event, known as the Reod, the inhabitants of the city became "cursed," and the city was sealed off from society. Anyone affected by the Shaod, or the disease that turns a person into an Elantrian, is thrown into Elantris to stay there forever. 
+            </Storyline>
+            <Characters>Raoden, Sarene, Hrathen</Characters>
+        </book>
 
-        <book title="Elantris">
-            <year>2005<year>
+        <book titulo="Elantris">
+            <year>2005</year>
             <Storyline>
                 The story rotates between the points of view of Kaladin, Shallan Davar, Szeth-son-son-Vallano, Dalinar Kholin, and several other minor characters, who lead seemingly unconnected lives. Szeth, a Shin man cast out by his people and condemned to obey his constantly changing masters, is sent to murder the king of one of the world's most powerful nations, Alethkar. As the story progresses, he continuously changes hands, doing his best to hide the fact that he possesses an Honorblade, a mythical blade used by the Heralds that can cut through any material. He also possesses access to powers that are no longer available to normal humans (“Surgebinding”), once possessed by the Knights Radiant and thought lost, making him incredibly difficult to defeat in battle. 
             </Storyline>
